@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 name = input("enter your name: ")
 print(f"Hi {name}!, Welcome to Hangman Game!, lets start to play.")
-
+#########################
 secret_word = "Metallica"
 guess_string = ""
 lives = 10
